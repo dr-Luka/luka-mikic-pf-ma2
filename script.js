@@ -32,12 +32,12 @@ var catArray = [
 // question 8
 for (var i = 0; i < catArray.length; i += 1) {
   console.log(catArray[i]);
-}
+};
 
 // question 9
 function logToConsole(word) {
   console.log(word);
-}
+};
 
 // question 10
 logToConsole("donkey");
